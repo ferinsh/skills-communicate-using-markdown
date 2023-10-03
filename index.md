@@ -5,3 +5,8 @@
 ``` javascript
 var myVar = "javascript upaycheeee";
 ```
+
+- [] Turn on GitHub Pages
+- [] Outline my portfolio
+- [] Introduce myself to the world
+- [] Ith padich theerkuka
